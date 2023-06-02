@@ -77,7 +77,7 @@
   background-image: url(Assets/hero.png);
   background-repeat: no-repeat;
   padding-top: 6rem;
-
+  background-size: cover;
 }
 
 .text-c {
@@ -779,6 +779,7 @@
   background-image: url(Assets/hero.png);
   background-repeat: no-repeat;
   padding-top: 2rem;
+  background-size: cover;
 }
 .nav-tabs .nav-link {
   border-top-left-radius: 2px !important;
